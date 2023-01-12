@@ -1,0 +1,16 @@
+<div class="table-responsive">
+    <table class="table table-dark">
+        <tr style="color: yellow;">
+            <th>Name</th>
+            <th>Title</th>
+            <th>Image</th>
+        </tr>
+        {{#each productos}}
+        <tr>
+            <td>{{this.nombre}}</td>
+            <td>{{this.precio}}</td>
+            <td><img src={{this.imagen}} /></td>
+        </tr>
+        {{/each}}
+    </table>
+</div>

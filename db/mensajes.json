@@ -1,0 +1,67 @@
+[
+    {
+        "autor": {
+            "email": "usuario1@mail.com",
+            "nombre": "Pepe",
+            "apellido": "Lotas",
+            "edad": "34",
+            "alias": "Pepito",
+            "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=Felix"
+        },
+
+        "mensaje": "holaaa",
+        "id": 1
+    },
+    {
+        "autor": {
+            "email": "usuario2@mail.com",
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "edad": "25",
+            "alias": "Juansin",
+            "avatar": "https://robohash.org/stefan-one"
+        },
+
+        "mensaje": "como andan",
+        "id": 2
+    },
+    {
+        "autor": {
+            "email": "usuario3@mail.com",
+            "nombre": "Ramon",
+            "apellido": "Diaz",
+            "edad": "45",
+            "alias": "Ramote",
+            "avatar": "https://api.dicebear.com/5.x/pixel-art/svg?seed=Aneka"
+        },
+
+        "mensaje": "bienvenido",
+        "id": 3
+    },
+    {
+        "autor": {
+            "email": "usuario4@mail.com",
+            "nombre": "Valeria",
+            "apellido": "Linch",
+            "edad": "50",
+            "alias": "Lini",
+            "avatar": "xsgames.co/randomusers/avatar.php?g=female"
+        },
+
+        "mensaje": "ejemplo",
+        "id": 4
+    },
+    {
+        "autor": {
+            "email": "usuario5@mail.com",
+            "nombre": "Jazmin",
+            "apellido": "Mori",
+            "edad": "18",
+            "alias": "Jazz",
+            "avatar": "api.lorem.space/image/pizza?w=150&h=150"
+        },
+
+        "mensaje": "de prueba",
+        "id": 5
+    }
+]
